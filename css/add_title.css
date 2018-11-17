@@ -1,0 +1,29 @@
+ul{
+  padding-bottom: 30px;
+  border-bottom: 1px solid #d3d3d3;
+}
+
+form > p{
+  color: #bc1818;
+  font-size: 30px;
+}
+
+#create_title{
+  color: #595959;
+  font-size: 40px;
+}
+textarea{
+  resize: none;
+}
+textarea#title{
+  font-family: cursive;
+  font-size: 30px;
+  width: 100%;
+  height: 40px;
+}
+
+textarea#title_text{
+  font-family: cursive;
+  width: 100%;
+  font-size: 20px;
+}
